@@ -19,4 +19,25 @@ Download link: https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg
 
 下载链接：https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg
 
+## The SmallDB command line
+1. Connect to a local or remote server
+smalldb> connect localhost 85817
+
+2. Insert data rows
+smalldb> insert {"_id":"8","name":"smalldb"}
+
+3. Query data
+smalldb> query {"_id":"8"}
+
+SmallDB 命令行操作如下：
+1. 连接本地或远程服务器
+smalldb> connect localhost 85817
+
+2. 插入数据行
+smalldb> insert {"_id":"8","name":"smalldb"}
+
+3. 查询数据
+smalldb> query {"_id":"8"}
+
+
 
