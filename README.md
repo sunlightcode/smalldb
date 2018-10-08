@@ -5,7 +5,9 @@ Users can compile and run directly using Microsoft Visual Studio 2010, or learn 
 
 开源数据库 SmallDB 是一款基于 Windows 操作系统的 NoSQL 数据库。用户可以使用微软 Visual Studio 2010 直接编译运行，也可以通过单步跟踪工具学习源代码。
 
-SmallDB is the Windows version of the sequoiaDB kernel. It is used for personal research and learning NoSQL database. SequoiaDB founder Wang Tao, who worked at IBM, is responsible for the development of DB2 database, and is one of the best database engine development experts in the industry.
+SmallDB is the Windows version of the sequoiaDB kernel. It is used for personal research and learning NoSQL database. 
+
+SequoiaDB founder Wang Tao, who worked at IBM, is responsible for the development of DB2 database, and is one of the best database engine development experts in the industry.
 
 SmallDB是sequoiaDB巨杉数据库内核的Windows版本，用于个人研究学习NoSQL数据库使用，巨杉数据库创始人王涛，曾经就职于在IBM，负责DB2数据库的研发，是业内数一数二的数据库引擎开发专家。
 
