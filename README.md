@@ -19,11 +19,11 @@ SmallDB是sequoiaDB巨杉数据库内核的Windows版本，用于个人研究学
 
 Please download the Boost files first and put it in the project directory, then compile it.
 
-> Download link: https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg
+> Download link: `https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg`
 
 请先下载Boost文件放入工程目录，再进行编译。
 
-> 下载链接：https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg
+> 下载链接：`https://pan.baidu.com/s/1idwawd-teLMC79DzG2YXjg`
 
 ## The SmallDB command line
 1.Connect to a local or remote server
