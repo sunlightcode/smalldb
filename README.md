@@ -9,7 +9,7 @@ SmallDB is the Windows version of the sequoiaDB kernel. It is used for personal 
 
 SequoiaDB founder Wang Tao, who worked at IBM, is responsible for the development of DB2 database, and is one of the best database engine development experts in the industry.
 
-SmallDB是sequoiaDB巨杉数据库内核的Windows版本，用于个人研究学习NoSQL数据库使用，巨杉数据库创始人王涛，曾经就职于在IBM，负责DB2数据库的研发，是业内数一数二的数据库引擎开发专家。
+SmallDB是sequoiaDB巨杉数据库内核的Windows版本，用于个人研究学习NoSQL数据库使用，巨杉数据库创始人王涛，曾经就职于在IBM，负责DB2数据库的研发，是国内最优秀数据库专家之一。
 
 ## Download Boost
 
