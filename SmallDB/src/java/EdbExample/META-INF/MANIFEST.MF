@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: emeralddb.jar apache-commons-id.jar apache-commons-discovery.jar
+Main-Class: com.emeralddb.example.EmeralddbTest
+
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal
+END
+LazilyParsedNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/LazilyParsedNumber.java
+END
+ObjectConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/ObjectConstructor.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/Streams.java
+END
+$Gson$Preconditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/$Gson$Preconditions.java
+END
+UnsafeAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/UnsafeAllocator.java
+END
+$Gson$Types.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/$Gson$Types.java
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/StringMap.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/package-info.java
+END
+ConstructorConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/ConstructorConstructor.java
+END
+Excluder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/Excluder.java
+END
+JsonReaderInternalAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/JsonReaderInternalAccess.java
+END
+Primitives.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/Primitives.java
+END

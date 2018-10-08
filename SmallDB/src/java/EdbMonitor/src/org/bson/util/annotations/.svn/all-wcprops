@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/org/bson/util/annotations
+END
+GuardedBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/org/bson/util/annotations/GuardedBy.java
+END
+ThreadSafe.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/org/bson/util/annotations/ThreadSafe.java
+END
+NotThreadSafe.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/org/bson/util/annotations/NotThreadSafe.java
+END
+Immutable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/org/bson/util/annotations/Immutable.java
+END

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/jfreechart-1.0.15.jar lib/jcommon-1.0.18.jar
+Main-CLass: com.emeralddb.base.EmeralddbGraphMonitor
+
+

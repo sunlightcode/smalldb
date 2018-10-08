@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind
+END
+TypeAdapters.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/TypeAdapters.java
+END
+CollectionTypeAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/CollectionTypeAdapterFactory.java
+END
+JsonTreeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/JsonTreeWriter.java
+END
+MapTypeAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/MapTypeAdapterFactory.java
+END
+ObjectTypeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/ObjectTypeAdapter.java
+END
+TypeAdapterRuntimeTypeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.java
+END
+JsonTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/JsonTreeReader.java
+END
+DateTypeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/DateTypeAdapter.java
+END
+SqlDateTypeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/SqlDateTypeAdapter.java
+END
+ArrayTypeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/ArrayTypeAdapter.java
+END
+TimeTypeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/TimeTypeAdapter.java
+END
+ReflectiveTypeAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.java
+END

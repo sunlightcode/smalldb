@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream
+END
+JsonToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/JsonToken.java
+END
+JsonReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/JsonReader.java
+END
+MalformedJsonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/MalformedJsonException.java
+END
+StringPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/StringPool.java
+END
+JsonScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/JsonScope.java
+END
+JsonWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/google/gson/stream/JsonWriter.java
+END

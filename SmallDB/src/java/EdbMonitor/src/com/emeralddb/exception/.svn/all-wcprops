@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/emeralddb/exception
+END
+BaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/emeralddb/exception/BaseException.java
+END
+EDBErrorLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/emeralddb/exception/EDBErrorLookup.java
+END
+EDBError.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/emeralddb/!svn/ver/386/src/java/EdbMonitor/src/com/emeralddb/exception/EDBError.java
+END

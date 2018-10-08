@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/emeralddb/!svn/ver/321/src/java/EdbMonitor/lib
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/emeralddb/!svn/ver/271/src/java/EdbMonitor/lib/log4j-1.2.17.jar
+END
+jcommon-1.0.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/emeralddb/!svn/ver/321/src/java/EdbMonitor/lib/jcommon-1.0.18.jar
+END
+jfreechart-1.0.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/emeralddb/!svn/ver/321/src/java/EdbMonitor/lib/jfreechart-1.0.15.jar
+END
